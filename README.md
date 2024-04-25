@@ -49,7 +49,7 @@ The CMD Loader is a crucial component of Byte Healer that facilitates the execut
 
 #### Adding Commands to CMD Loader
 
-You can edit the `cmd_loader.json` file to add or modify commands as needed for your system fixes. Each command entry should follow this structure:
+You can edit the `cmd.json` file to add or modify commands as needed for your system fixes. Each command entry should follow this structure:
 
 ```json
 [
