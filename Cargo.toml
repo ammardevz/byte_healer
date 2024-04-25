@@ -1,0 +1,19 @@
+[package]
+name = "byte_healer"
+version = "1.0.1"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+owo-colors = "4.0.0"
+text-to-ascii-art = "0.1.9"
+serde = {version = "1.0.197", features = ["derive"]}
+serde_json = "1.0.116"
+reqwest = {version = "0.12.3", features = ["blocking"]}
+indicatif = "0.17.8"
+clearscreen = "3.0.0"
+log = "0.4.21"
+simplelog = "0.12.2"
+chrono = "0.4.38"
+is_elevated = "0.1.2"
