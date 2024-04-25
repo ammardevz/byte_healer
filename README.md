@@ -45,7 +45,7 @@ Upon running Byte Healer, follow the on-screen instructions to navigate through 
 
 ### CMD Loader
 
-The CMD Loader is a crucial component of Byte Healer that facilitates the execution of essential commands for system repair and optimization. It utilizes JSON files (`cmd_loader.json`) located in the project directory to define lists of commands.
+The CMD Loader is a crucial component of Byte Healer that facilitates the execution of essential commands for system repair and optimization. It utilizes JSON files (`cmd.json`) located in the project directory to define lists of commands.
 
 #### Adding Commands to CMD Loader
 
